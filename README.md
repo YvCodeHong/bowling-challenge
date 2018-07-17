@@ -2,6 +2,9 @@
 Bowling Challenge
 =================
 
+## Summary
+
+This is an app that allows users to view the latest scores on the bowling scoreboard.  
 
 * Challenge time: rest of the day and weekend.
 * Feel free to use google, your notes, books, etc. but work on your own
